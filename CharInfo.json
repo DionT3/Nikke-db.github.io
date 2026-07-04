@@ -4,7 +4,7 @@
         "charName": "Rapi",
         "costumes": [
             {"costumeId": "c010", "costumeName": "Default", "spine": "c010"},
-            {"costumeId": "c010_01", "costumeName": "Rapi 01", "spine": "c010_01"},
+            {"costumeId": "c010_01", "costumeName": "Rapi Alt", "spine": "c010_01"},
             {"costumeId": "c010_01_aim", "costumeName": "Rapi Aim", "spine": "c010_01_aim"},
             {"costumeId": "c010_01_cover", "costumeName": "Rapi Cover", "spine": "c010_01_cover"}
         ]
@@ -14,7 +14,7 @@
         "charName": "Neon",
         "costumes": [
             {"costumeId": "c011", "costumeName": "Default", "spine": "c011"},
-            {"costumeId": "c011_01", "costumeName": "Neon 01", "spine": "c011_01"},
+            {"costumeId": "c011_01", "costumeName": "Neon Alt", "spine": "c011_01"},
             {"costumeId": "c011_01_aim", "costumeName": "Neon Aim", "spine": "c011_01_aim"},
             {"costumeId": "c011_01_cover", "costumeName": "Neon Cover", "spine": "c011_01_cover"}
         ]
@@ -24,9 +24,18 @@
         "charName": "Anis",
         "costumes": [
             {"costumeId": "c012", "costumeName": "Default", "spine": "c012"},
-            {"costumeId": "c012_01", "costumeName": "Anis 01", "spine": "c012_01"},
+            {"costumeId": "c012_01", "costumeName": "Anis Alt", "spine": "c012_01"},
             {"costumeId": "c012_01_aim", "costumeName": "Anis Aim", "spine": "c012_01_aim"},
             {"costumeId": "c012_01_cover", "costumeName": "Anis Cover", "spine": "c012_01_cover"}
+        ]
+    },
+    {
+        "charId": "c015",
+        "charName": "Anis Sparkling",
+        "costumes": [
+            {"costumeId": "c015", "costumeName": "Default", "spine": "c015"},
+            {"costumeId": "c015_aim", "costumeName": "Anis Aim", "spine": "c015_aim"},
+            {"costumeId": "c015_cover", "costumeName": "Anis Cover", "spine": "c015_cover"}
         ]
     }
 ]
