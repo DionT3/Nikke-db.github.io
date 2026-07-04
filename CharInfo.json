@@ -1,557 +1,113 @@
 [
-    {
-        "charId": "c102",
-        "charName": "Maxwell",
-        "l2d": "c102"
-    },
-    {
-        "charId": "c140",
-        "charName": "Sugar",
-        "l2d": "c140"
-    },
-    {
-        "charId": "c210",
-        "charName": "Exia",
-        "l2d": "c210"
-    },
-    {
-        "charId": "c191",
-        "charName": "Alice",
-        "l2d": "c191"
-    },
-    {
-        "charId": "c090",
-        "charName": "Emma",
-        "l2d": "c090"
-    },
-    {
-        "charId": "c160",
-        "charName": "Yuni",
-        "l2d": "c160"
-    },
-    {
-        "charId": "c170",
-        "charName": "Privaty",
-        "l2d": "c170"
-    },
-    {
-        "charId": "c270",
-        "charName": "Blanc",
-        "l2d": "c270"
-    },
-    {
-        "charId": "c271",
-        "charName": "Noir",
-        "l2d": "c271"
-    },
-    {
-        "charId": "c142",
-        "charName": "Frima",
-        "l2d": "c142"
-    },
-    {
-        "charId": "c082",
-        "charName": "Liter",
-        "l2d": "c082"
-    },
-    {
-        "charId": "c220",
-        "charName": "Snow White",
-        "l2d": "c220"
-    },
-    {
-        "charId": "c231",
-        "charName": "Isabel",
-        "l2d": "c231"
-    },
-    {
-        "charId": "c150",
-        "charName": "Julia",
-        "l2d": "c150"
-    },
-    {
-        "charId": "c022",
-        "charName": "Signal",
-        "l2d": "c022"
-    },
-    {
-        "charId": "c030",
-        "charName": "Poli",
-        "l2d": "c030"
-    },
-    {
-        "charId": "c032",
-        "charName": "Miranda",
-        "l2d": "c032"
-    },
-    {
-        "charId": "c070",
-        "charName": "Brid",
-        "l2d": "c070"
-    },
-    {
-        "charId": "c071",
-        "charName": "Soline",
-        "l2d": "c071"
-    },
-    {
-        "charId": "c072",
-        "charName": "Diesel",
-        "l2d": "c072"
-    },
-    {
-        "charId": "c080",
-        "charName": "Centi",
-        "l2d": "c080"
-    },
-    {
-        "charId": "c091",
-        "charName": "Vesti",
-        "l2d": "c091"
-    },
-    {
-        "charId": "c092",
-        "charName": "Eunhwa",
-        "l2d": "c092"
-    },
-    {
-        "charId": "c101",
-        "charName": "Drake",
-        "l2d": "c101"
-    },
-    {
-        "charId": "c110",
-        "charName": "Crow",
-        "l2d": "c110"
-    },
-    {
-        "charId": "c130",
-        "charName": "Mary",
-        "l2d": "c130"
-    },
-    {
-        "charId": "c131",
-        "charName": "Pepper",
-        "l2d": "c131"
-    },
-    {
-        "charId": "c141",
-        "charName": "Milk",
-        "l2d": "c141"
-    },
-    {
-        "charId": "c171",
-        "charName": "Yulha",
-        "l2d": "c171"
-    },
-    {
-        "charId": "c172",
-        "charName": "Admi",
-        "l2d": "c172"
-    },
-    {
-        "charId": "c180",
-        "charName": "Guillotine",
-        "l2d": "c180"
-    },
-    {
-        "charId": "c181",
-        "charName": "Maiden",
-        "l2d": "c181"
-    },
-    {
-        "charId": "c190",
-        "charName": "Lucilla",
-        "l2d": "c190"
-    },
-    {
-        "charId": "c200",
-        "charName": "Rupee",
-        "l2d": "c200"
-    },
-    {
-        "charId": "c201",
-        "charName": "Yan",
-        "l2d": "c201"
-    },
-    {
-        "charId": "c202",
-        "charName": "Dolla",
-        "l2d": "c202"
-    },
-    {
-        "charId": "c212",
-        "charName": "Novel",
-        "l2d": "c212"
-    },
-    {
-        "charId": "c241",
-        "charName": "Epinel",
-        "l2d": "c241"
-    },
-    {
-        "charId": "c242",
-        "charName": "Folkwang",
-        "l2d": "c242"
-    },
-    {
-        "charId": "c221",
-        "charName": "Rapunzel",
-        "l2d": "c221"
-    },
-    {
-        "charId": "c222",
-        "charName": "Scarlet",
-        "l2d": "c222"
-    },
-    {
-        "charId": "c230",
-        "charName": "Harran",
-        "l2d": "c230"
-    },
-    {
-        "charId": "c232",
-        "charName": "Noah",
-        "l2d": "c232"
-    },
-    {
-        "charId": "c290",
-        "charName": "Mana",
-        "l2d": "c290"
-    },
-    {
-        "charId": "c111",
-        "charName": "Jackal",
-        "l2d": "c111"
-    },
-    {
-        "charId": "c240",
-        "charName": "Rumani",
-        "l2d": "c240"
-    },
-    {
-        "charId": "c040",
-        "charName": "D",
-        "l2d": "c040"
-    },
-    {
-        "charId": "c041",
-        "charName": "Agent K",
-        "l2d": "c041"
-    },
-    {
-        "charId": "c100",
-        "charName": "Laplace",
-        "l2d": "c100"
-    },
-    {
-        "charId": "c282",
-        "charName": "Sakura",
-        "l2d": "c282"
-    },
-    {
-        "charId": "c281",
-        "charName": "_Moran",
-        "l2d": "c281"
-    },
-    {
-        "charId": "c112",
-        "charName": "Viper",
-        "l2d": "c112"
-    },
-    {
-        "charId": "c280",
-        "charName": "Rosanna",
-        "l2d": "c280"
-    },
-    {
-        "charId": "c260",
-        "charName": "Modernia",
-        "l2d": "c260"
-    },
-    {
-        "charId": "c310",
-        "charName": "Aid",
-        "l2d": "c310"
-    },
-    {
-        "charId": "c320",
-        "charName": "Bibli",
-        "l2d": "c320"
-    },
-    {
-        "charId": "c321",
-        "charName": "Marchana",
-        "l2d": "c321"
-    },
-    {
-        "charId": "c272",
-        "charName": "_Rouge",
-        "l2d": "c272"
-    },
-    {
-        "charId": "c311",
-        "charName": "Cocoa",
-        "l2d": "c311"
-    },
-    {
-        "charId": "c312",
-        "charName": "Soda",
-        "l2d": "c312"
-    },
-    {
-        "charId": "c331",
-        "charName": "_Chime",
-        "l2d": "c331"
-    },
-    {
-        "charId": "c361",
-        "charName": "Kilo",
-        "l2d": "c361"
-    },
-    {
-        "charId": "c381",
-        "charName": "Biscuit",
-        "l2d": "c381"
-    },
-    {
-        "charId": "c400",
-        "charName": "Guilty",
-        "l2d": "c400"
-    },
-    {
-        "charId": "c261",
-        "charName": "Nihilister",
-        "l2d": "c261"
-    },
-    {
-        "charId": "c340",
-        "charName": "Siren",
-        "l2d": "c340"
-    },
-    {
-        "charId": "c342",
-        "charName": "Pin",
-        "l2d": "c342"
-    },
-    {
-        "charId": "c401",
-        "charName": "Sin",
-        "l2d": "c401"
-    },
-    {
-        "charId": "c371",
-        "charName": "Endless",
-        "l2d": "c371"
-    },
-    {
-        "charId": "c233",
-        "charName": "Dorothy",
-        "l2d": "c233"
-    },
-    {
-        "charId": "c262",
-        "charName": "Liberelli",
-        "l2d": "c262"
-    },
-    {
-        "charId": "c351",
-        "charName": "Anchor",
-        "l2d": "c351"
-    },
-    {
-        "charId": "c010",
-        "charName": "Rapi",
-        "l2d": "c010"
-    },
-    {
-        "charId": "c011",
-        "charName": "Neon",
-        "l2d": "c011"
-    },
-    {
-        "charId": "c020",
-        "charName": "Delta",
-        "l2d": "c020"
-    },
-    {
-        "charId": "c012",
-        "charName": "Anis",
-        "l2d": "c012"
-    },
-    {
-        "charId": "c161",
-        "charName": "Mihara",
-        "l2d": "c161"
-    },
-    {
-        "charId": "c120",
-        "charName": "N102",
-        "l2d": "c120"
-    },
-    {
-        "charId": "c291",
-        "charName": "Ether",
-        "l2d": "c291"
-    },
-    {
-        "charId": "c013",
-        "charName": "_Marian",
-        "l2d": "c013"
-    },
-    {
-        "charId": "c060",
-        "charName": "Belorta",
-        "l2d": "c060"
-    },
-    {
-        "charId": "c061",
-        "charName": "Mica",
-        "l2d": "c061"
-    },
-    {
-        "charId": "c081",
-        "charName": "Acre",
-        "l2d": "c081"
-    },
-    {
-        "charId": "c053",
-        "charName": "liqueur",
-        "l2d": "c053"
-    },
-    {
-        "charId": "c300",
-        "charName": "Soldier EG",
-        "l2d": "c300"
-    },
-    {
-        "charId": "c301",
-        "charName": "Soldier FA",
-        "l2d": "c301"
-    },
-    {
-        "charId": "c302",
-        "charName": "Product 08",
-        "l2d": "c302"
-    },
-    {
-        "charId": "c303",
-        "charName": "Product 12",
-        "l2d": "c303"
-    },
-    {
-        "charId": "c304",
-        "charName": "iDoll Flower",
-        "l2d": "c304"
-    },
-    {
-        "charId": "c305",
-        "charName": "iDoll Ocean",
-        "l2d": "c305"
-    },
-    {
-        "charId": "c306",
-        "charName": "Soldier OW",
-        "l2d": "c306"
-    },
-    {
-        "charId": "c307",
-        "charName": "Product 23",
-        "l2d": "c307"
-    },
-    {
-        "charId": "c308",
-        "charName": "iDoll Sun",
-        "l2d": "c308"
-    },
-    {
-        "charId": "c352",
-        "charName": "Helm",
-        "l2d": "c352"
-    },
-    {
-        "charId": "c432",
-        "charName": "Aria",
-        "l2d": "c432"
-    },
-    {
-        "charId": "c430",
-        "charName": "Noise",
-        "l2d": "c430"
-    },
-    {
-        "charId": "c431",
-        "charName": "Volume",
-        "l2d": "c431"
-    },
-    {
-        "charId": "c193",
-        "charName": "Neve",
-        "l2d": "c193"
-    },
-    {
-        "charId": "c203",
-        "charName": "Rupee: Winter Shopper",
-        "l2d": "c203"
-    },
-    {
-        "charId": "c121",
-        "charName": "Anne: Miracle Fairy",
-        "l2d": "c121"
-    },
-    {
-        "charId": "c402",
-        "charName": "Quency",
-        "l2d": "c402"
-    },
-    {
-        "charId": "c802",
-        "charName": "Himeno",
-        "l2d": "c802"
-    },
-    {
-        "charId": "c801",
-        "charName": "Power",
-        "l2d": "c801"
-    },
-    {
-        "charId": "c800",
-        "charName": "Makima",
-        "l2d": "c800"
-    },
-    {
-        "charId": "c392",
-        "charName": "Rei",
-        "l2d": "c392"
-    },
-    {
-        "charId": "c132",
-        "charName": "Mary: Bay Goddess",
-        "l2d": "c132"
-    },
-    {
-        "charId": "c014",
-        "charName": "Neon: Blue Ocean",
-        "l2d": "c014"
-    },
-    {
-        "charId": "c380",
-        "charName": "Nero",
-        "l2d": "c380"
-    },
-    {
-        "charId": "c350",
-        "charName": "Mast",
-        "l2d": "c350"
-    },
-    {
-        "charId": "c015",
-        "charName": "Anis: Sparkling Summer",
-        "l2d": "c015"
-    },
-    {
-        "charId": "c353",
-        "charName": "Helm: Aquamarine",
-        "l2d": "c353"
-    }
+    {"charId": "c102", "charName": "Maxwell", "spine": "char_c102"},
+    {"charId": "c140", "charName": "Sugar", "spine": "char_c140"},
+    {"charId": "c210", "charName": "Exia", "spine": "char_c210"},
+    {"charId": "c191", "charName": "Alice", "spine": "char_c191"},
+    {"charId": "c090", "charName": "Emma", "spine": "char_c090"},
+    {"charId": "c160", "charName": "Yuni", "spine": "char_c160"},
+    {"charId": "c170", "charName": "Privaty", "spine": "char_c170"},
+    {"charId": "c270", "charName": "Blanc", "spine": "char_c270"},
+    {"charId": "c271", "charName": "Noir", "spine": "char_c271"},
+    {"charId": "c142", "charName": "Frima", "spine": "char_c142"},
+    {"charId": "c082", "charName": "Liter", "spine": "char_c082"},
+    {"charId": "c220", "charName": "Snow White", "spine": "char_c220"},
+    {"charId": "c231", "charName": "Isabel", "spine": "char_c231"},
+    {"charId": "c150", "charName": "Julia", "spine": "char_c150"},
+    {"charId": "c022", "charName": "Signal", "spine": "char_c022"},
+    {"charId": "c030", "charName": "Poli", "spine": "char_c030"},
+    {"charId": "c032", "charName": "Miranda", "spine": "char_c032"},
+    {"charId": "c070", "charName": "Brid", "spine": "char_c070"},
+    {"charId": "c071", "charName": "Soline", "spine": "char_c071"},
+    {"charId": "c072", "charName": "Diesel", "spine": "char_c072"},
+    {"charId": "c080", "charName": "Centi", "spine": "char_c080"},
+    {"charId": "c091", "charName": "Vesti", "spine": "char_c091"},
+    {"charId": "c092", "charName": "Eunhwa", "spine": "char_c092"},
+    {"charId": "c101", "charName": "Drake", "spine": "char_c101"},
+    {"charId": "c110", "charName": "Crow", "spine": "char_c110"},
+    {"charId": "c130", "charName": "Mary", "spine": "char_c130"},
+    {"charId": "c131", "charName": "Pepper", "spine": "char_c131"},
+    {"charId": "c141", "charName": "Milk", "spine": "char_c141"},
+    {"charId": "c171", "charName": "Yulha", "spine": "char_c171"},
+    {"charId": "c172", "charName": "Admi", "spine": "char_c172"},
+    {"charId": "c180", "charName": "Guillotine", "spine": "char_c180"},
+    {"charId": "c181", "charName": "Maiden", "spine": "char_c181"},
+    {"charId": "c190", "charName": "Lucilla", "spine": "char_c190"},
+    {"charId": "c200", "charName": "Rupee", "spine": "char_c200"},
+    {"charId": "c201", "charName": "Yan", "spine": "char_c201"},
+    {"charId": "c202", "charName": "Dolla", "spine": "char_c202"},
+    {"charId": "c212", "charName": "Novel", "spine": "char_c212"},
+    {"charId": "c241", "charName": "Epinel", "spine": "char_c241"},
+    {"charId": "c242", "charName": "Folkwang", "spine": "char_c242"},
+    {"charId": "c221", "charName": "Rapunzel", "spine": "char_c221"},
+    {"charId": "c222", "charName": "Scarlet", "spine": "char_c222"},
+    {"charId": "c230", "charName": "Harran", "spine": "char_c230"},
+    {"charId": "c232", "charName": "Noah", "spine": "char_c232"},
+    {"charId": "c290", "charName": "Mana", "spine": "char_c290"},
+    {"charId": "c111", "charName": "Jackal", "spine": "char_c111"},
+    {"charId": "c240", "charName": "Rumani", "spine": "char_c240"},
+    {"charId": "c040", "charName": "D", "spine": "char_c040"},
+    {"charId": "c041", "charName": "Agent K", "spine": "char_c041"},
+    {"charId": "c100", "charName": "Laplace", "spine": "char_c100"},
+    {"charId": "c282", "charName": "Sakura", "spine": "char_c282"},
+    {"charId": "c281", "charName": "_Moran", "spine": "char_c281"},
+    {"charId": "c112", "charName": "Viper", "spine": "char_c112"},
+    {"charId": "c280", "charName": "Rosanna", "spine": "char_c280"},
+    {"charId": "c260", "charName": "Modernia", "spine": "char_c260"},
+    {"charId": "c310", "charName": "Aid", "spine": "char_c310"},
+    {"charId": "c320", "charName": "Bibli", "spine": "char_c320"},
+    {"charId": "c321", "charName": "Marchana", "spine": "char_c321"},
+    {"charId": "c272", "charName": "_Rouge", "spine": "char_c272"},
+    {"charId": "c311", "charName": "Cocoa", "spine": "char_c311"},
+    {"charId": "c312", "charName": "Soda", "spine": "char_c312"},
+    {"charId": "c331", "charName": "_Chime", "spine": "char_c331"},
+    {"charId": "c361", "charName": "Kilo", "spine": "char_c361"},
+    {"charId": "c381", "charName": "Biscuit", "spine": "char_c381"},
+    {"charId": "c400", "charName": "Guilty", "spine": "char_c400"},
+    {"charId": "c261", "charName": "Nihilister", "spine": "char_c261"},
+    {"charId": "c340", "charName": "Siren", "spine": "char_c340"},
+    {"charId": "c342", "charName": "Pin", "spine": "char_c342"},
+    {"charId": "c401", "charName": "Sin", "spine": "char_c401"},
+    {"charId": "c371", "charName": "Endless", "spine": "char_c371"},
+    {"charId": "c233", "charName": "Dorothy", "spine": "char_c233"},
+    {"charId": "c262", "charName": "Liberelli", "spine": "char_c262"},
+    {"charId": "c351", "charName": "Anchor", "spine": "char_c351"},
+    {"charId": "c010", "charName": "Rapi", "spine": "char_c010"},
+    {"charId": "c011", "charName": "Neon", "spine": "char_c011"},
+    {"charId": "c020", "charName": "Delta", "spine": "char_c020"},
+    {"charId": "c012", "charName": "Anis", "spine": "char_c012"},
+    {"charId": "c161", "charName": "Mihara", "spine": "char_c161"},
+    {"charId": "c120", "charName": "N102", "spine": "char_c120"},
+    {"charId": "c291", "charName": "Ether", "spine": "char_c291"},
+    {"charId": "c013", "charName": "_Marian", "spine": "char_c013"},
+    {"charId": "c060", "charName": "Belorta", "spine": "char_c060"},
+    {"charId": "c061", "charName": "Mica", "spine": "char_c061"},
+    {"charId": "c081", "charName": "Acre", "spine": "char_c081"},
+    {"charId": "c053", "charName": "liqueur", "spine": "char_c053"},
+    {"charId": "c300", "charName": "Soldier EG", "spine": "char_c300"},
+    {"charId": "c301", "charName": "Soldier FA", "spine": "char_c301"},
+    {"charId": "c302", "charName": "Product 08", "spine": "char_c302"},
+    {"charId": "c303", "charName": "Product 12", "spine": "char_c303"},
+    {"charId": "c304", "charName": "iDoll Flower", "spine": "char_c304"},
+    {"charId": "c305", "charName": "iDoll Ocean", "spine": "char_c305"},
+    {"charId": "c306", "charName": "Soldier OW", "spine": "char_c306"},
+    {"charId": "c307", "charName": "Product 23", "spine": "char_c307"},
+    {"charId": "c308", "charName": "iDoll Sun", "spine": "char_c308"},
+    {"charId": "c352", "charName": "Helm", "spine": "char_c352"},
+    {"charId": "c432", "charName": "Aria", "spine": "char_c432"},
+    {"charId": "c430", "charName": "Noise", "spine": "char_c430"},
+    {"charId": "c431", "charName": "Volume", "spine": "char_c431"},
+    {"charId": "c193", "charName": "Neve", "spine": "char_c193"},
+    {"charId": "c203", "charName": "Rupee: Winter Shopper", "spine": "char_c203"},
+    {"charId": "c121", "charName": "Anne: Miracle Fairy", "spine": "char_c121"},
+    {"charId": "c402", "charName": "Quency", "spine": "char_c402"},
+    {"charId": "c802", "charName": "Himeno", "spine": "char_c802"},
+    {"charId": "c801", "charName": "Power", "spine": "char_c801"},
+    {"charId": "c800", "charName": "Makima", "spine": "char_c800"},
+    {"charId": "c392", "charName": "Rei", "spine": "char_c392"},
+    {"charId": "c132", "charName": "Mary: Bay Goddess", "spine": "char_c132"},
+    {"charId": "c014", "charName": "Neon: Blue Ocean", "spine": "char_c014"},
+    {"charId": "c380", "charName": "Nero", "spine": "char_c380"},
+    {"charId": "c350", "charName": "Mast", "spine": "char_c350"},
+    {"charId": "c015", "charName": "Anis: Sparkling Summer", "spine": "char_c015"},
+    {"charId": "c353", "charName": "Helm: Aquamarine", "spine": "char_c353"}
 ]
