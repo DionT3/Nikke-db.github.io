@@ -1,8 +1,30 @@
 [
-    {"charId": "c010", "charName": "Rapi", "spine": "c010"},
-    {"charId": "c011", "charName": "Neon", "spine": "c011"},
-    {"charId": "c012", "charName": "Anis", "spine": "c012"},
-    {"charId": "c013", "charName": "Marian", "spine": "c013"},
-    {"charId": "c014", "charName": "Neon Blue Ocean", "spine": "c014"},
-    {"charId": "c015", "charName": "Anis Sparkling Summer", "spine": "c015"}
+    {
+        "charId": "c010",
+        "charName": "Rapi",
+        "costumes": [
+            {"costumeId": "c010", "costumeName": "Default", "spine": "c010"}
+        ]
+    },
+    {
+        "charId": "c011",
+        "charName": "Neon",
+        "costumes": [
+            {"costumeId": "c011", "costumeName": "Default", "spine": "c011"}
+        ]
+    },
+    {
+        "charId": "c012",
+        "charName": "Anis",
+        "costumes": [
+            {"costumeId": "c012", "costumeName": "Default", "spine": "c012"}
+        ]
+    },
+    {
+        "charId": "c015",
+        "charName": "Anis Sparkling Summer",
+        "costumes": [
+            {"costumeId": "c015", "costumeName": "Default", "spine": "c015"}
+        ]
+    }
 ]
